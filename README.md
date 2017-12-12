@@ -1,6 +1,6 @@
 # shadowsocks-android-java
 
-Last release: [Download](https://github.com/dawei101/shadowsocks-android-java/releases)
+!! THIS PROJCET FORK [dawei101/shadowsocks-android-java](https://github.com/dawei101/shadowsocks-android-java) MANUALLY !!
 
 
 This version of shadowsocks for android is pure java version.
