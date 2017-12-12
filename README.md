@@ -1,6 +1,6 @@
 # shadowsocks-android-java
 
-!! THIS PROJCET FORK [dawei101/shadowsocks-android-java](https://github.com/dawei101/shadowsocks-android-java) MANUALLY !!
+**!! THIS PROJCET FORK [dawei101/shadowsocks-android-java](https://github.com/dawei101/shadowsocks-android-java) MANUALLY !!**
 
 
 This version of shadowsocks for android is pure java version.
